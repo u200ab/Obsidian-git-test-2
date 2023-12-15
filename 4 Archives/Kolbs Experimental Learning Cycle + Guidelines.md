@@ -1,6 +1,5 @@
 ---
-tags:
-  - dailyreview
+tags: []
 ---
 # The Transformative Power of Mistakes
 - The only way to improve with practice is to learn from your mistakes! More practice can make you frustrated and confused (and even hopeless) if you don’t have a system for improving. Sometimes you may improve by a lot, sometimes your idea doesn’t work, and you encounter a different kind of failure or mistake. This is a normal part of the improvement cycle, sometimes you improve, sometimes you don’t. Over enough cycles, you will dramatically improve as you learn from each mistake.

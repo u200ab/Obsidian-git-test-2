@@ -1,10 +1,8 @@
 ---
-aliases:
-  - 
+aliases: 
 date_created: 
 date_modified: 
-tags:
-  - weekly-review
+tags: []
 title: Marginal Gains
 ---
 

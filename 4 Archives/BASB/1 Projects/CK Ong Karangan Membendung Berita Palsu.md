@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#projects"
+tags: []
 Limit:
 ---
 

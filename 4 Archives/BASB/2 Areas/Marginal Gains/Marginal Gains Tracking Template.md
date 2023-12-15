@@ -2,9 +2,7 @@
 aliases: 
 date_created: 
 date_modified: 
-tags:
-  - weekly-review
-  - "#dailyreview"
+tags: []
 title: Marginal Gains
 ---
 

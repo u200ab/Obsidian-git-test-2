@@ -1,7 +1,6 @@
 ---
 event-id: dhlo82e25nipa8gg2uqv7lfr84
-tags:
-  - "#inbox"
+tags: []
 ---
 
 - [complete tips for SPM from a former SPM student](https://www.daniellimjj.com/2013/06/complete-tips-for-spm-examination-first.html)
